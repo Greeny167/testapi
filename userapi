@@ -1,0 +1,23 @@
+[{
+    "id":"abc123",
+    "userCode":"US001",
+    "firstName":"Hạ An",
+    "lastName":"Vũ",
+    "fullName":"Vũ Hạ An",
+    "gender":"Nữ",
+    "email":"vhaan@gmail.com",
+    "birthday":"15/06/1999",
+    "phone":"0787151267",
+    "address":"Thủ Đức, TPHCM",
+    "avatar":"https://bitly.com.vn/vys7qa",
+    "status":"",
+    "role":"user",
+    "description":"",
+    "experience":[{
+        "id":"asdfgh123",
+        "name":"IELTS 6.5",
+        "type":"Chứng chỉ ngoại ngữ",
+        "year":2021,
+        "description":"6.5 6.5 6.5 6.5"
+    }]
+}]
