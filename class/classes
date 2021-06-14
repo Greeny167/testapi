@@ -6,8 +6,8 @@
 		"id": "class123fdas",
 		"classCode": "CS001-06-246",
 		"className": "GTCT thứ 2 4 6",
-		"classStart": "2021-06-02",
-		"classFinish": "2021-06-28",
+		"classStart": "2021-06-02 14:00:00",
+		"classFinish": "2021-06-28 16:00:00",
 		"classStatus": "Còn trống",
 		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
 		"classSyllabus": [{
@@ -80,17 +80,35 @@
 				"sessionId": "ss97klhg",
 				"sessionCode": "SS001",
 				"sessionName": "Buổi 1",
-				"sessionStart": "14:00:00",
-				"sessionEnd": "16:00:00",
+				"sessionStart": "2021-06-02 14:00:00",
+				"sessionEnd": "2021-06-02 16:00:00",
 				"sessionDuration": 2,
 				"sessionDescription": ""
 			},
 			{
-				"sessionId": "ss97klhg",
+				"sessionId": "ss97dklhg",
 				"sessionCode": "SS002",
 				"sessionName": "Buổi 2",
-				"sessionStart": "14:00:00",
-				"sessionEnd": "16:00:00",
+				"sessionStart": "2021-06-04 14:00:00",
+				"sessionEnd": "2021-06-04 16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			}
+			{
+				"sessionId": "ss9d7klhg",
+				"sessionCode": "SS001",
+				"sessionName": "Buổi 7",
+				"sessionStart": "2021-06-18 14:00:00",
+				"sessionEnd": "2021-06-18 16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss97klddhg",
+				"sessionCode": "SS002",
+				"sessionName": "Buổi 8",
+				"sessionStart": "2021-06-21 14:00:00",
+				"sessionEnd": "2021-06-21 16:00:00",
 				"sessionDuration": 2,
 				"sessionDescription": ""
 			}
@@ -100,8 +118,8 @@
 		"id": "class187fdas",
 		"classCode": "CS001-06-357",
 		"className": "GTCT thứ 3 5 7",
-		"classStart": "2021-06-03",
-		"classFinish": "2021-06-29",
+		"classStart": "2021-06-03 14:00:00",
+		"classFinish": "2021-06-29 16:00:00",
 		"classStatus": "Còn trống",
 		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
 		"classSyllabus": [{
@@ -171,20 +189,38 @@
 
 		"sessions": [
 			{
-				"sessionId": "ss97klhg",
+				"sessionId": "ss97klhssg",
 				"sessionCode": "SS001",
 				"sessionName": "Buổi 1",
-				"sessionStart": "14:00:00",
-				"sessionEnd": "16:00:00",
+				"sessionStart": "2021-06-03 14:00:00",
+				"sessionEnd": "2021-06-03 16:00:00",
 				"sessionDuration": 2,
 				"sessionDescription": ""
 			},
 			{
-				"sessionId": "ss97klhg",
+				"sessionId": "ss97klhgs",
 				"sessionCode": "SS002",
 				"sessionName": "Buổi 2",
-				"sessionStart": "14:00:00",
-				"sessionEnd": "16:00:00",
+				"sessionStart": "2021-06-05 14:00:00",
+				"sessionEnd": "2021-06-05 16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss9s7klhg",
+				"sessionCode": "SS001",
+				"sessionName": "Buổi 5",
+				"sessionStart": "2021-06-15 14:00:00",
+				"sessionEnd": "2021-06-15 16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss97klhsg",
+				"sessionCode": "SS002",
+				"sessionName": "Buổi 6",
+				"sessionStart": "2021-06-17 14:00:00",
+				"sessionEnd": "2021-06-17 16:00:00",
 				"sessionDuration": 2,
 				"sessionDescription": ""
 			}
