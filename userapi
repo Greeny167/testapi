@@ -1,23 +1,28 @@
 {
-    "id":"abc123",
-    "userCode":"US0012",
-    "firstName":"Hạ An",
-    "lastName":"Vũ",
-    "fullName":"Vũ Hạ An",
-    "gender":"Nữ",
-    "email":"vhaan@gmail.com",
-    "birthday":"1999-06-15",
-    "phone":"0787151267",
-    "address":"Thủ Đức, TPHCM",
-    "avatar":"img/avatar/avatar1.png",
-    "status":"",
-    "role":"user",
-    "description":"",
-    "experience":[{
-        "id":"asdfgh123",
-        "name":"IELTS 6.5",
-        "type":"Chứng chỉ ngoại ngữ",
-        "year":"2021",
-        "description":"6.5 6.5 6.5 6.5"
-    }]
+	"status":200, 
+    "success":"1", 
+    "message":"Get user's info successful!", 
+    "data":{
+		"id":"abc123",
+		"userCode":"US0012",
+		"firstName":"Hạ An",
+		"lastName":"Vũ",
+		"fullName":"Vũ Hạ An",
+		"gender":"Nữ",
+		"email":"vhaan@gmail.com",
+		"birthday":"1999-06-15",
+		"phone":"0787151267",
+		"address":"Thủ Đức, TPHCM",
+		"avatar":"img/avatar/avatar1.png",
+		"status":"",
+		"role":"user",
+		"description":"",
+		"experience":[{
+			"id":"asdfgh123",
+			"name":"IELTS 6.5",
+			"type":"Chứng chỉ ngoại ngữ",
+			"year":"2021",
+			"description":"6.5 6.5 6.5 6.5"
+		}]
+	}
 }
