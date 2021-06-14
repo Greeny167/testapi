@@ -3,73 +3,191 @@
     "success":"1", 
     "messageError":"", 
     "data":[{
-		"id":"abc123",
-		"userCode":"US0012",
-		"firstName":"Hạ An",
-		"lastName":"Vũ",
-		"fullName":"Vũ Hạ An",
-		"gender":"Nữ",
-		"email":"vhaan@gmail.com",
-		"birthday":"1999-06-15",
-		"phone":"0787151267",
-		"address":"Thủ Đức, TPHCM",
-		"avatar":"",
-		"status":"",
-		"role":"user",
-		"description":"",
-		"experience":[{
-			"id":"asdfgh123",
-			"name":"IELTS 6.5",
-			"type":"Chứng chỉ ngoại ngữ",
-			"year":"2021",
-			"description":"6.5 6.5 6.5 6.5"
-		}]
-	},
-	{
-		"id":"abc124",
-		"userCode":"US0014",
-		"firstName":"Hoàng Phong",
-		"lastName":"Trần",
-		"fullName":"Trần Hoàng Phong",
-		"gender":"Nam",
-		"email":"thphong@gmail.com",
-		"birthday":"1997-07-19",
-		"phone":"0787146279",
-		"address":"Quận 1, TPHCM",
-		"avatar":"",
-		"status":"",
-		"role":"user",
-		"description":"Thích đi du lịch",
-		"experience":"",
-	},
-	{
-		"id":"admin123",
-		"userCode":"AD001",
-		"firstName":"Admin",
-		"lastName":"Admin",
-		"fullName":"Admin Admin",
-		"gender":"Nam",
-		"email":"admin@gmail.com",
-		"birthday":"1997-07-20",
-		"phone":"0787146321",
-		"address":"Quận 7, TPHCM",
-		"avatar":"img/avatar/avatar1.png",
-		"status":"",
-		"role":"admin",
-		"description":"admin nha",
-		"experience":[{
-			"id":"asdfgh123",
-			"name":"IELTS 7",
-			"type":"Chứng chỉ ngoại ngữ",
-			"year":"2021",
-			"description":"7 7 7 7"
-		},
-		{
-			"id":"asdfgh124",
-			"name":"TOEIC 700",
-			"type":"Chứng chỉ ngoại ngữ",
-			"year":"2018",
-			"description":"300 + 400"
+		"id": "class123fdas",
+		"classCode": "CS001-06-246",
+		"className": "GTCT thứ 2 4 6",
+		"classStart": "2021-06-02",
+		"classFinish": "2021-06-28",
+		"classStatus": "Còn trống",
+		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
+		"classSyllabus": [{
+			"number": "1",
+			"title": "Tích phân kép",
+			"description": ""
 		}],
+
+		"schedule": [
+			{
+				"scheduleId": "sd356kjhg",
+				"scheduleDay": "thứ ba",
+				"scheduleStart": "14:00:00",
+				"scheduleEnd": "16:00:00",
+				"scheduleDuration": 2,
+				"scheduleDescription": ""
+			},
+			{
+				"scheduleId": "sd356kjhg",
+				"scheduleDay": "thứ năm",
+				"scheduleStart": "14:00:00",
+				"scheduleEnd": "16:00:00",
+				"scheduleDuration": 2,
+				"scheduleDescription": ""
+			},
+			{
+				"scheduleId": "sd356kjhg",
+				"scheduleDay": "thứ bảy",
+				"scheduleStart": "14:00:00",
+				"scheduleEnd": "16:00:00",
+				"scheduleDuration": 2,
+				"scheduleDescription": ""
+			}
+		],
+
+		"subjectId": "sj123lkjhf",
+		"subjectCode": "MA001",
+		"subjectName": "Toán ĐH",
+		"subjectCategory": "Toán",
+
+		"courseId": "cs875hjkgh",
+		"courseCode": "MAGT001",
+		"courseName": "Giải tích cấp tốc",
+		"courseDuration": 24,
+		"courseStatus": "Còn lớp",
+		"courseVideoInfo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+		"courseRate": "5",
+		"courseImg": "",
+		"courseDescription": "Bao qua môn. Không qua không lấy tiền.",
+		"courseSyllabus": [{
+			"number": "1",
+			"title": "Tích phân kép",
+			"description": ""
+		}],
+
+		"teacherId": "tc987fghj",
+		"teacherCode": "T001",
+		"teacherName": "Vip Pro",
+		"teacherGender": "Nam",
+		"teacherAvatar": "",
+
+		"feedbackId": "fb123grfdg",
+		"feedbackCode": "FB001",
+		"feedbackName": "Đánh giá lớp GTCT 246",
+		"feedbackRate": "",
+		"feedbackDescription": "",
+
+		"sessions": [
+			{
+				"sessionId": "ss97klhg",
+				"sessionCode": "SS001",
+				"sessionName": "Buổi 1",
+				"sessionStart": "14:00:00",
+				"sessionEnd": "16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss97klhg",
+				"sessionCode": "SS002",
+				"sessionName": "Buổi 2",
+				"sessionStart": "14:00:00",
+				"sessionEnd": "16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			}
+		]
+	},
+	{
+		"id": "class187fdas",
+		"classCode": "CS001-06-357",
+		"className": "GTCT thứ 3 5 7",
+		"classStart": "2021-06-03",
+		"classFinish": "2021-06-29",
+		"classStatus": "Còn trống",
+		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
+		"classSyllabus": [{
+			"number": "1",
+			"title": "Tích phân kép",
+			"description": ""
+		}],
+
+		"schedule": [
+			{
+				"scheduleId": "sd356kjhg",
+				"scheduleDay": "thứ ba",
+				"scheduleStart": "14:00:00",
+				"scheduleEnd": "16:00:00",
+				"scheduleDuration": 2,
+				"scheduleDescription": ""
+			},
+			{
+				"scheduleId": "sd356kjhg",
+				"scheduleDay": "thứ năm",
+				"scheduleStart": "14:00:00",
+				"scheduleEnd": "16:00:00",
+				"scheduleDuration": 2,
+				"scheduleDescription": ""
+			},
+			{
+				"scheduleId": "sd356kjhg",
+				"scheduleDay": "thứ bảy",
+				"scheduleStart": "14:00:00",
+				"scheduleEnd": "16:00:00",
+				"scheduleDuration": 2,
+				"scheduleDescription": ""
+			}
+		],
+
+		"subjectId": "sj123lkjhf",
+		"subjectCode": "MA001",
+		"subjectName": "Toán ĐH",
+		"subjectCategory": "Toán",
+
+		"courseId": "cs875hjkgh",
+		"courseCode": "MAGT001",
+		"courseName": "Giải tích cấp tốc",
+		"courseDuration": 24,
+		"courseStatus": "Còn lớp",
+		"courseVideoInfo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+		"courseRate": "5",
+		"courseImg": "",
+		"courseDescription": "Bao qua môn. Không qua không lấy tiền.",
+		"courseSyllabus": [{
+			"number": "1",
+			"title": "Tích phân kép",
+			"description": ""
+		}],
+
+		"teacherId": "tc987fghj",
+		"teacherCode": "T001",
+		"teacherName": "Vip Pro",
+		"teacherGender": "Nam",
+		"teacherAvatar": "",
+
+		"feedbackId": "fb123grfdg",
+		"feedbackCode": "FB001",
+		"feedbackName": "Đánh giá lớp GTCT 357",
+		"feedbackRate": "",
+		"feedbackDescription": "",
+
+		"sessions": [
+			{
+				"sessionId": "ss97klhg",
+				"sessionCode": "SS001",
+				"sessionName": "Buổi 1",
+				"sessionStart": "14:00:00",
+				"sessionEnd": "16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss97klhg",
+				"sessionCode": "SS002",
+				"sessionName": "Buổi 2",
+				"sessionStart": "14:00:00",
+				"sessionEnd": "16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			}
+		]
 	}]
 }
