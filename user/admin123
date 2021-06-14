@@ -1,0 +1,35 @@
+{
+	"status":200, 
+    "success":"1", 
+    "message":"Get user's info successful!", 
+    "data":{
+		"id":"admin123",
+		"userCode":"AD001",
+		"firstName":"Admin",
+		"lastName":"Admin",
+		"fullName":"Admin Admin",
+		"gender":"Nam",
+		"email":"admin@gmail.com",
+		"birthday":"1997-07-20",
+		"phone":"0787146321",
+		"address":"Quận 7, TPHCM",
+		"avatar":"img/avatar/avatar1.png",
+		"status":"",
+		"role":"admin",
+		"description":"admin nha",
+		"experience":[{
+			"id":"asdfgh123",
+			"name":"IELTS 7",
+			"type":"Chứng chỉ ngoại ngữ",
+			"year":"2021",
+			"description":"7 7 7 7"
+		},
+		{
+			"id":"asdfgh124",
+			"name":"TOEIC 700",
+			"type":"Chứng chỉ ngoại ngữ",
+			"year":"2018",
+			"description":"300 + 400"
+		}],
+	}
+}
