@@ -1,7 +1,7 @@
 {
 	"status":200, 
     "success":"1", 
-    "message":"Get user's info successful!", 
+    "messageError":"", 
     "data":[{
 		"id":"abc123",
 		"userCode":"US0012",
