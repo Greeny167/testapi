@@ -6,9 +6,9 @@
 		"id": "class123fdas",
 		"classCode": "CS001-06-246",
 		"className": "GTCT thứ 2 4 6",
-		"classStart": "2021-06-02",
-		"classFinish": "2021-06-28",
-		"classStatus": "Còn trống",
+		"classStart": "2021-06-02 14:00:00",
+		"classFinish": "2021-06-28 16:00:00",
+		"classStatus": "",
 		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
 		"classSyllabus": [{
 			"number": "1",
@@ -19,7 +19,7 @@
 		"schedule": [
 			{
 				"scheduleId": "sd356kjhg",
-				"scheduleDay": "Thứ hai",
+				"scheduleDay": "thứ hai",
 				"scheduleStart": "14:00:00",
 				"scheduleEnd": "16:00:00",
 				"scheduleDuration": 2,
@@ -27,7 +27,7 @@
 			},
 			{
 				"scheduleId": "sd356kjhg",
-				"scheduleDay": "Thứ tư",
+				"scheduleDay": "thứ tư",
 				"scheduleStart": "14:00:00",
 				"scheduleEnd": "16:00:00",
 				"scheduleDuration": 2,
@@ -35,7 +35,7 @@
 			},
 			{
 				"scheduleId": "sd356kjhg",
-				"scheduleDay": "Thứ sáu",
+				"scheduleDay": "thứ sáu",
 				"scheduleStart": "14:00:00",
 				"scheduleEnd": "16:00:00",
 				"scheduleDuration": 2,
@@ -80,17 +80,35 @@
 				"sessionId": "ss97klhg",
 				"sessionCode": "SS001",
 				"sessionName": "Buổi 1",
-				"sessionStart": "14:00:00",
-				"sessionEnd": "16:00:00",
+				"sessionStart": "2021-06-02 14:00:00",
+				"sessionEnd": "2021-06-02 16:00:00",
 				"sessionDuration": 2,
 				"sessionDescription": ""
 			},
 			{
-				"sessionId": "ss97klhg",
+				"sessionId": "ss97dklhg",
 				"sessionCode": "SS002",
 				"sessionName": "Buổi 2",
-				"sessionStart": "14:00:00",
-				"sessionEnd": "16:00:00",
+				"sessionStart": "2021-06-04 14:00:00",
+				"sessionEnd": "2021-06-04 16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss9d7klhg",
+				"sessionCode": "SS001",
+				"sessionName": "Buổi 7",
+				"sessionStart": "2021-06-18 14:00:00",
+				"sessionEnd": "2021-06-18 16:00:00",
+				"sessionDuration": 2,
+				"sessionDescription": ""
+			},
+			{
+				"sessionId": "ss97klddhg",
+				"sessionCode": "SS002",
+				"sessionName": "Buổi 8",
+				"sessionStart": "2021-06-21 14:00:00",
+				"sessionEnd": "2021-06-21 16:00:00",
 				"sessionDuration": 2,
 				"sessionDescription": ""
 			}
