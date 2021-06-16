@@ -9,14 +9,18 @@
 		"fullName":"Vũ Hạ An",
 		"gender":"Nữ",
 		"email":"vhaan@gmail.com",
-		"birthday":"1999-06-15",
 		"phone":"0787151267",
 		"address":"Thủ Đức, TPHCM",
 		"avatar":"",
 		"status":"",
-		"role":"user",
+		"roles": [
+			{
+				"id": 3,
+				"erole": "ROLE_USER"
+			}
+		],
 		"description":"",
-		"experience":[{
+		"experiences":[{
 			"id":"asdfgh123",
 			"name":"IELTS 6.5",
 			"type":"Chứng chỉ ngoại ngữ",
@@ -32,14 +36,18 @@
 		"fullName":"Trần Hoàng Phong",
 		"gender":"Nam",
 		"email":"thphong@gmail.com",
-		"birthday":"1997-07-19",
 		"phone":"0787146279",
 		"address":"Quận 1, TPHCM",
 		"avatar":"",
 		"status":"",
-		"role":"user",
+		"roles": [
+			{
+				"id": 3,
+				"erole": "ROLE_USER"
+			}
+		],
 		"description":"Thích đi du lịch",
-		"experience":"",
+		"experiences":"",
 	},
 	{
 		"id":"admin123",
@@ -49,14 +57,22 @@
 		"fullName":"Admin Admin",
 		"gender":"Nam",
 		"email":"admin@gmail.com",
-		"birthday":"1997-07-20",
 		"phone":"0787146321",
 		"address":"Quận 7, TPHCM",
 		"avatar":"img/avatar/avatar1.png",
 		"status":"",
-		"role":"admin",
+		"roles": [
+        {
+            "id": 4,
+            "erole": "ROLE_ADMIN"
+        },
+        {
+            "id": 3,
+            "erole": "ROLE_USER"
+        }
+    ],
 		"description":"admin nha",
-		"experience":[{
+		"experiences":[{
 			"id":"asdfgh123",
 			"name":"IELTS 7",
 			"type":"Chứng chỉ ngoại ngữ",
@@ -69,6 +85,6 @@
 			"type":"Chứng chỉ ngoại ngữ",
 			"year":"2018",
 			"description":"300 + 400"
-		}],
+		}]
 	}]
 }

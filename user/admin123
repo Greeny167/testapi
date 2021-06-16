@@ -9,14 +9,22 @@
 		"fullName":"Admin Admin",
 		"gender":"Nam",
 		"email":"admin@gmail.com",
-		"birthday":"1997-07-20",
 		"phone":"0787146321",
 		"address":"Quận 7, TPHCM",
 		"avatar":"img/avatar/avatar1.png",
 		"status":"",
-		"role":"admin",
+		"roles": [
+        {
+            "id": 4,
+            "erole": "ROLE_ADMIN"
+        },
+        {
+            "id": 3,
+            "erole": "ROLE_USER"
+        }
+    ],
 		"description":"admin nha",
-		"experience":[{
+		"experiences":[{
 			"id":"asdfgh123",
 			"name":"IELTS 7",
 			"type":"Chứng chỉ ngoại ngữ",
