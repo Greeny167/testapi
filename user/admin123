@@ -1,7 +1,4 @@
 {
-    "success":"1", 
-    "messageError":"", 
-    "data":{
 		"id":"admin123",
 		"userCode":"AD001",
 		"firstName":"Admin",
@@ -37,4 +34,3 @@
 			"description":"300 + 400"
 		}]
 	}
-}

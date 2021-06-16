@@ -1,8 +1,4 @@
 {
-	"status":200, 
-    "success":"1", 
-    "messageError":"", 
-    "data":{
 		"id": "class123fdas",
 		"classCode": "CS001-06-246",
 		"className": "GTCT thứ 2 4 6",
@@ -114,4 +110,3 @@
 			}
 		]
 	}
-}

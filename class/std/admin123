@@ -1,8 +1,4 @@
 {
-  "status": 200,
-  "success": "1",
-  "messageError": "",
-  "data": {
     "passClass": [
       {
         "id": "class123fdaess",
@@ -532,4 +528,3 @@
         ]
       }]
   }
-}
