@@ -44,7 +44,7 @@
           "id": "sj123lkjhf",
           "subjectCode": "MA001",
           "name": "Toán ĐH",
-          "category": "Toán",
+          "category": "Toán"
         },
         "course": {
           "id": "cs875hjkgh",
@@ -66,14 +66,14 @@
           "id": "tc987fghj",
           "userCode": "T001",
           "name": "Vip Pro",
-          "avatar": "",
+          "avatar": ""
         },
         "feedback": {
           "id": "fb123grfdg",
           "feedbackCode": "FB001",
           "name": "Đánh giá lớp ĐSTT 246",
           "rate": "4",
-          "description": "",
+          "description": ""
         },
         "sessions": [
           {
@@ -145,7 +145,7 @@
           "id": "sj123lkjhf",
           "subjectCode": "MA001",
           "name": "Toán ĐH",
-          "category": "Toán",
+          "category": "Toán"
         },
         "course": {
           "id": "cs875hjkgh",
@@ -167,7 +167,7 @@
           "id": "tc987fghj",
           "userCode": "T001",
           "name": "Vip Pro",
-          "avatar": "",
+          "avatar": ""
         },
         "feedback": {
           "id": "fb123grfdg",
@@ -256,7 +256,7 @@
           "id": "sj123lkjhf",
           "subjectCode": "MA001",
           "name": "Toán ĐH",
-          "category": "Toán",
+          "category": "Toán"
         },
         "course": {
           "id": "cs875hjkgh",
@@ -495,7 +495,7 @@
             "number": "1",
             "title": "Hồi quy tuyến tính",
             "description": ""
-          }],
+          }]
         },
         "teacher": {
           "id": "tc987fghj",
