@@ -1,229 +1,226 @@
 {
-	"status":200, 
-    "success":"1", 
-    "messageError":"", 
-    "data":[{
-		"id": "class12345fdas",
-		"classCode": "CS001-06-246",
-		"className": "GTCT thứ 2 4 6",
-		"classStart": "2021-06-02 19:00:00",
-		"classFinish": "2021-06-28 21:00:00",
-		"classStatus": "",
-		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
-		"classSyllabus": [{
-			"number": "1",
-			"title": "Tích phân kép",
-			"description": ""
-		}],
+  "status": 200,
+  "success": "1",
+  "messageError": "",
+  "data": [{
+    "id": "class12345fdas",
+    "classCode": "CS001-06-246",
+    "className": "GTCT thứ 2 4 6",
+    "begin": "2021-06-02 19:00:00",
+    "end": "2021-06-28 21:00:00",
+    "status": "",
+    "description": "Bao qua môn. Không qua không lấy tiền.",
+    "syllabus": [{
+      "number": "1",
+      "title": "Tích phân kép",
+      "description": ""
+    }],
+    "schedules": [
+      {
+        "id": "sd356kjhg",
+        "day": "thứ hai",
+        "startAt": "19:00:00",
+        "endAt": "21:00:00",
+        "description": ""
+      },
+      {
+        "id": "sd356kjhg",
+        "day": "thứ tư",
+        "startAt": "19:00:00",
+        "endAt": "21:00:00",
+        "description": ""
+      },
+      {
+        "id": "sd356kjhg",
+        "day": "thứ sáu",
+        "startAt": "19:00:00",
+        "endAt": "21:00:00",
+        "description": ""
+      }
+    ],
+    "subject": {
+      "id": "sj123lkjhf",
+      "subjectCode": "MA001",
+      "name": "Toán ĐH",
+      "category": "Toán",
+    },
+    "course": {
+      "id": "cs875hjkgh",
+      "courseCode": "MAGT001",
+      "name": "Giải tích cấp tốc",
+      "duration": 24,
+      "status": "Còn lớp",
+      "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+      "rate": "5",
+      "image": "",
+      "description": "Bao qua môn. Không qua không lấy tiền.",
+      "syllabus": [{
+        "number": "1",
+        "title": "Tích phân kép",
+        "description": ""
+      }],
+    },
+    "teacher": {
+      "id": "tc987fghj",
+      "userCode": "T001",
+      "name": "Vip Pro",
+      "avatar": "",
+    },
+    "feedback": {
+      "id": "fb123grfdg",
+      "feedbackCode": "FB001",
+      "name": "Đánh giá lớp GTCT 246",
+      "rate": "",
+      "description": "",
+    },
+    "sessions": [
+      {
+        "id": "ss97klhg",
+        "sessionCode": "SS001",
+        "name": "Buổi 1",
+        "startAt": "2021-06-02 19:00:00",
+        "endAt": "2021-06-02 21:00:00",
+        "duration": 2,
+        "description": ""
+      },
+      {
+        "id": "ss97dklhg",
+        "sessionCode": "SS002",
+        "name": "Buổi 2",
+        "startAt": "2021-06-04 19:00:00",
+        "endAt": "2021-06-04 21:00:00",
+        "duration": 2,
+        "description": ""
+      },
+      {
+        "id": "ss9d7klhg",
+        "sessionCode": "SS001",
+        "name": "Buổi 7",
+        "startAt": "2021-06-18 19:00:00",
+        "endAt": "2021-06-18 21:00:00",
+        "duration": 2,
+        "description": ""
+      },
+      {
+        "id": "ss97klddhg",
+        "sessionCode": "SS002",
+        "name": "Buổi 8",
+        "startAt": "2021-06-21 19:00:00",
+        "endAt": "2021-06-21 21:00:00",
+        "duration": 2,
+        "description": ""
+      }
+    ]
+  },
 
-		"schedule": [
-			{
-				"scheduleId": "sd356kjhg",
-				"scheduleDay": "thứ hai",
-				"scheduleStart": "19:00:00",
-				"scheduleEnd": "21:00:00",
-				"scheduleDuration": 2,
-				"scheduleDescription": ""
-			},
-			{
-				"scheduleId": "sd356kjhg",
-				"scheduleDay": "thứ tư",
-				"scheduleStart": "19:00:00",
-				"scheduleEnd": "21:00:00",
-				"scheduleDuration": 2,
-				"scheduleDescription": ""
-			},
-			{
-				"scheduleId": "sd356kjhg",
-				"scheduleDay": "thứ sáu",
-				"scheduleStart": "19:00:00",
-				"scheduleEnd": "21:00:00",
-				"scheduleDuration": 2,
-				"scheduleDescription": ""
-			}
-		],
-
-		"subjectId": "sj123lkjhf",
-		"subjectCode": "MA001",
-		"subjectName": "Toán ĐH",
-		"subjectCategory": "Toán",
-
-		"courseId": "cs875hjkgh",
-		"courseCode": "MAGT001",
-		"courseName": "Giải tích cấp tốc",
-		"courseDuration": 24,
-		"courseStatus": "Còn lớp",
-		"courseVideoInfo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
-		"courseRate": "5",
-		"courseImg": "",
-		"courseDescription": "Bao qua môn. Không qua không lấy tiền.",
-		"courseSyllabus": [{
-			"number": "1",
-			"title": "Tích phân kép",
-			"description": ""
-		}],
-
-		"teacherId": "tc987fghj",
-		"teacherCode": "T001",
-		"teacherName": "Vip Pro",
-		"teacherGender": "Nam",
-		"teacherAvatar": "",
-
-		"feedbackId": "fb123grfdg",
-		"feedbackCode": "FB001",
-		"feedbackName": "Đánh giá lớp GTCT 246",
-		"feedbackRate": "",
-		"feedbackDescription": "",
-
-		"sessions": [
-			{
-				"sessionId": "ss97klhg",
-				"sessionCode": "SS001",
-				"sessionName": "Buổi 1",
-				"sessionStart": "2021-06-02 19:00:00",
-				"sessionEnd": "2021-06-02 21:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			},
-			{
-				"sessionId": "ss97dklhg",
-				"sessionCode": "SS002",
-				"sessionName": "Buổi 2",
-				"sessionStart": "2021-06-04 19:00:00",
-				"sessionEnd": "2021-06-04 21:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			},
-			{
-				"sessionId": "ss9d7klhg",
-				"sessionCode": "SS001",
-				"sessionName": "Buổi 7",
-				"sessionStart": "2021-06-18 19:00:00",
-				"sessionEnd": "2021-06-18 21:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			},
-			{
-				"sessionId": "ss97klddhg",
-				"sessionCode": "SS002",
-				"sessionName": "Buổi 8",
-				"sessionStart": "2021-06-21 19:00:00",
-				"sessionEnd": "2021-06-21 21:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			}
-		]
-	},
-	{
-		"id": "classaa187fdas",
-		"classCode": "CS001-06-357",
-		"className": "GTCT thứ 3 5 7",
-		"classStart": "2021-06-03 14:00:00",
-		"classFinish": "2021-06-29 16:00:00",
-		"classStatus": "",
-		"classDescription": "Bao qua môn. Không qua không lấy tiền.",
-		"classSyllabus": [{
-			"number": "1",
-			"title": "Tích phân kép",
-			"description": ""
-		}],
-
-		"schedule": [
-			{
-				"scheduleId": "sd356kjhg",
-				"scheduleDay": "thứ ba",
-				"scheduleStart": "14:00:00",
-				"scheduleEnd": "16:00:00",
-				"scheduleDuration": 2,
-				"scheduleDescription": ""
-			},
-			{
-				"scheduleId": "sd356kjhg",
-				"scheduleDay": "thứ năm",
-				"scheduleStart": "14:00:00",
-				"scheduleEnd": "16:00:00",
-				"scheduleDuration": 2,
-				"scheduleDescription": ""
-			},
-			{
-				"scheduleId": "sd356kjhg",
-				"scheduleDay": "thứ bảy",
-				"scheduleStart": "14:00:00",
-				"scheduleEnd": "16:00:00",
-				"scheduleDuration": 2,
-				"scheduleDescription": ""
-			}
-		],
-
-		"subjectId": "sj123lkjhf",
-		"subjectCode": "MA001",
-		"subjectName": "Toán ĐH",
-		"subjectCategory": "Toán",
-
-		"courseId": "cs875hjkgh",
-		"courseCode": "MAGT001",
-		"courseName": "Giải tích cấp tốc",
-		"courseDuration": 24,
-		"courseStatus": "Còn lớp",
-		"courseVideoInfo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
-		"courseRate": "3.5",
-		"courseImg": "",
-		"courseDescription": "Bao qua môn. Không qua không lấy tiền.",
-		"courseSyllabus": [{
-			"number": "1",
-			"title": "Tích phân kép",
-			"description": ""
-		}],
-
-		"teacherId": "tc987fghj",
-		"teacherCode": "T001",
-		"teacherName": "Haizz",
-		"teacherGender": "Nam",
-		"teacherAvatar": "",
-
-		"feedbackId": "fb123grfdg",
-		"feedbackCode": "FB001",
-		"feedbackName": "Đánh giá lớp GTCT 357",
-		"feedbackRate": "",
-		"feedbackDescription": "",
-
-		"sessions": [
-			{
-				"sessionId": "ss97klhssg",
-				"sessionCode": "SS001",
-				"sessionName": "Buổi 1",
-				"sessionStart": "2021-06-03 14:00:00",
-				"sessionEnd": "2021-06-03 16:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			},
-			{
-				"sessionId": "ss97klhgs",
-				"sessionCode": "SS002",
-				"sessionName": "Buổi 2",
-				"sessionStart": "2021-06-05 14:00:00",
-				"sessionEnd": "2021-06-05 16:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			},
-			{
-				"sessionId": "ss9s7klhg",
-				"sessionCode": "SS001",
-				"sessionName": "Buổi 5",
-				"sessionStart": "2021-06-15 14:00:00",
-				"sessionEnd": "2021-06-15 16:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			},
-			{
-				"sessionId": "ss97klhsg",
-				"sessionCode": "SS002",
-				"sessionName": "Buổi 6",
-				"sessionStart": "2021-06-17 14:00:00",
-				"sessionEnd": "2021-06-17 16:00:00",
-				"sessionDuration": 2,
-				"sessionDescription": ""
-			}
-		]
-	}]
+  {
+    "id": "classaa187fdas",
+    "classCode": "CS001-06-357",
+    "className": "GTCT thứ 3 5 7",
+    "begin": "2021-06-03 14:00:00",
+    "end": "2021-06-29 16:00:00",
+    "status": "",
+    "description": "Bao qua môn. Không qua không lấy tiền.",
+    "syllabus": [{
+      "number": "1",
+      "title": "Tích phân kép",
+      "description": ""
+    }],
+    "schedules": [
+      {
+        "id": "sd356kjhg",
+        "day": "thứ ba",
+        "startAt": "14:00:00",
+        "endAt": "16:00:00",
+        "description": ""
+      },
+      {
+        "id": "sd356kjhg",
+        "day": "thứ năm",
+        "startAt": "14:00:00",
+        "endAt": "16:00:00",
+        "description": ""
+      },
+      {
+        "id": "sd356kjhg",
+        "day": "thứ bảy",
+        "startAt": "14:00:00",
+        "endAt": "16:00:00",
+        "description": ""
+      }
+    ],
+    "subject": {
+      "id": "sj123lkjhf",
+      "subjectCode": "MA001",
+      "name": "Toán ĐH",
+      "category": "Toán",
+    },
+    "course": {
+      "id": "cs875hjkgh",
+      "courseCode": "MAGT001",
+      "name": "Giải tích cấp tốc",
+      "duration": 24,
+      "status": "Còn lớp",
+      "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+      "rate": "3.5",
+      "image": "",
+      "description": "Bao qua môn. Không qua không lấy tiền.",
+      "syllabus": [{
+        "number": "1",
+        "title": "Tích phân kép",
+        "description": ""
+      }],
+    },
+    "teacher": {
+      "id": "tc987fghj",
+      "userCode": "T001",
+      "name": "Haizz",
+      "avatar": "",
+    },
+    "feedback": {
+      "id": "fb123grfdg",
+      "feedbackCode": "FB001",
+      "name": "Đánh giá lớp GTCT 357",
+      "rate": "",
+      "description": "",
+    },
+    "sessions": [
+      {
+        "id": "ss97klhssg",
+        "sessionCode": "SS001",
+        "name": "Buổi 1",
+        "startAt": "2021-06-03 14:00:00",
+        "endAt": "2021-06-03 16:00:00",
+        "duration": 2,
+        "description": ""
+      },
+      {
+        "id": "ss97klhgs",
+        "sessionCode": "SS002",
+        "name": "Buổi 2",
+        "startAt": "2021-06-05 14:00:00",
+        "endAt": "2021-06-05 16:00:00",
+        "duration": 2,
+        "description": ""
+      },
+      {
+        "id": "ss9s7klhg",
+        "sessionCode": "SS001",
+        "name": "Buổi 5",
+        "startAt": "2021-06-15 14:00:00",
+        "endAt": "2021-06-15 16:00:00",
+        "duration": 2,
+        "description": ""
+      },
+      {
+        "id": "ss97klhsg",
+        "sessionCode": "SS002",
+        "name": "Buổi 6",
+        "startAt": "2021-06-17 14:00:00",
+        "endAt": "2021-06-17 16:00:00",
+        "duration": 2,
+        "description": ""
+      }
+    ]
+  }]
 }
