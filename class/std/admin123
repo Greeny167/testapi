@@ -1,5 +1,5 @@
 {
-    "passClass": [
+    "pastClasses": [
       {
         "id": "class123fdaess",
         "classCode": "CS002-06-246",
@@ -211,7 +211,7 @@
           }
         ]
       }],
-    "currentClass": [
+    "currentClasses": [
       {
         "id": "class123fdas",
         "classCode": "CS001-06-246",
@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "futureClass": [
+    "futureClasses": [
       {
         "id": "class11423fdas",
         "classCode": "CS041-06-246",

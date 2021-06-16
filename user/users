@@ -1,7 +1,4 @@
-{
-    "success":"1", 
-    "messageError":"", 
-    "data":[{
+[{
 		"id":"abc123",
 		"userCode":"US0012",
 		"firstName":"Hạ An",
@@ -87,4 +84,3 @@
 			"description":"300 + 400"
 		}]
 	}]
-}
