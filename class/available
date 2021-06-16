@@ -42,7 +42,7 @@
       "id": "sj123lkjhf",
       "subjectCode": "MA001",
       "name": "Toán ĐH",
-      "category": "Toán",
+      "category": "Toán"
     },
     "course": {
       "id": "cs875hjkgh",
@@ -58,20 +58,20 @@
         "number": "1",
         "title": "Tích phân kép",
         "description": ""
-      }],
+      }]
     },
     "teacher": {
       "id": "tc987fghj",
       "userCode": "T001",
       "name": "Vip Pro",
-      "avatar": "",
+      "avatar": ""
     },
     "feedback": {
       "id": "fb123grfdg",
       "feedbackCode": "FB001",
       "name": "Đánh giá lớp GTCT 246",
       "rate": "",
-      "description": "",
+      "description": ""
     },
     "sessions": [
       {
@@ -169,20 +169,20 @@
         "number": "1",
         "title": "Tích phân kép",
         "description": ""
-      }],
+      }]
     },
     "teacher": {
       "id": "tc987fghj",
       "userCode": "T001",
       "name": "Haizz",
-      "avatar": "",
+      "avatar": ""
     },
     "feedback": {
       "id": "fb123grfdg",
       "feedbackCode": "FB001",
       "name": "Đánh giá lớp GTCT 357",
       "rate": "",
-      "description": "",
+      "description": ""
     },
     "sessions": [
       {
