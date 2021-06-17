@@ -58,7 +58,7 @@
             "description": ""
           }]
         },
-        "teacher": {
+        "student": {
           "id": "tc987fghj",
           "userCode": "T001",
           "name": "Vip Pro",
@@ -159,7 +159,7 @@
             "description": ""
           }]
         },
-        "teacher": {
+        "student": {
           "id": "tc987fghj",
           "userCode": "T001",
           "name": "Vip Pro",
@@ -270,7 +270,7 @@
             "description": ""
           }]
         },
-        "teacher": {
+        "student": {
           "id": "tc987fghj",
           "userCode": "T001",
           "name": "Vip Pro",
@@ -381,7 +381,7 @@
             "description": ""
           }]
         },
-        "teacher": {
+        "student": {
           "id": "tc987fghj",
           "userCode": "T001",
           "name": "Vip Pro",
@@ -493,7 +493,7 @@
             "description": ""
           }]
         },
-        "teacher": {
+        "student": {
           "id": "tc987fghj",
           "userCode": "T002",
           "name": "Hi Hi",
