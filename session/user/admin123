@@ -1,0 +1,532 @@
+{
+    "study": [
+        {
+            "class": {
+                "id": "class123fdaess",
+                "classCode": "CS002-06-246",
+                "name": "ĐSTT thứ 2 4 6",
+                "begin": "2021-05-03 14:00:00",
+                "end": "2021-05-26 16:00:00"
+            },
+            "course": {
+                "id": "cs875hjkgh",
+                "courseCode": "MAGT002",
+                "name": "Đại số tuyến tính"
+            },
+            "teacher": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-05-03 14:00:00",
+                    "endAt": "2021-05-03 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97dklhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-05-05 14:00:00",
+                    "endAt": "2021-05-05 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9d7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 7",
+                    "startAt": "2021-05-12 14:00:00",
+                    "endAt": "2021-05-12 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "class187fdas",
+                "classCode": "CS003-06-357",
+                "name": "ĐSTT thứ 3 5 7",
+                "begin": "2021-05-04 14:00:00",
+                "end": "2021-05-27 16:00:00"
+            },
+            "course": {
+                "id": "cs875hjkgh",
+                "courseCode": "MAGT002",
+                "name": "Đại số tuyến tính"
+            },
+            "teacher": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhgs",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-05-04 14:00:00",
+                    "endAt": "2021-05-04 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9s7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 5",
+                    "startAt": "2021-05-06 14:00:00",
+                    "endAt": "2021-05-06 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhsg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 6",
+                    "startAt": "2021-05-22 14:00:00",
+                    "endAt": "2021-05-22 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhssg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 7",
+                    "startAt": "2021-05-29 14:00:00",
+                    "endAt": "2021-05-29 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "class123fdas",
+                "classCode": "CS001-06-246",
+                "name": "GTCT thứ 2 4 6",
+                "begin": "2021-06-02 14:00:00",
+                "end": "2021-06-28 16:00:00"
+            },
+            "course": {
+                "id": "cs875hjkgh",
+                "courseCode": "MAGT001",
+                "name": "Giải tích cấp tốc"
+            },
+            "teacher": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-06-02 14:00:00",
+                    "endAt": "2021-06-02 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97dklhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-06-04 14:00:00",
+                    "endAt": "2021-06-04 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9d7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 7",
+                    "startAt": "2021-06-18 14:00:00",
+                    "endAt": "2021-06-18 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klddhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 8",
+                    "startAt": "2021-06-21 14:00:00",
+                    "endAt": "2021-06-21 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "class187fdas",
+                "classCode": "CS001-06-357",
+                "name": "GTCT thứ 3 5 7",
+                "begin": "2021-06-03 14:00:00",
+                "end": "2021-06-29 16:00:00"
+            },
+            "course": {
+                "id": "cs875hjkgh",
+                "courseCode": "MAGT001",
+                "name": "Giải tích cấp tốc"
+            },
+            "teacher": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhssg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-06-03 14:00:00",
+                    "endAt": "2021-06-03 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhgs",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-06-05 14:00:00",
+                    "endAt": "2021-06-05 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9s7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 5",
+                    "startAt": "2021-06-22 14:00:00",
+                    "endAt": "2021-06-22 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhsg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 6",
+                    "startAt": "2021-06-24 14:00:00",
+                    "endAt": "2021-06-24 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "class11423fdas",
+                "classCode": "CS041-06-246",
+                "name": "XSTK thứ 2 4 6",
+                "begin": "2021-07-05 14:00:00",
+                "end": "2021-07-26 16:00:00"
+            },
+            "course": {
+                "id": "cs875hjkgh",
+                "courseCode": "MAGT003",
+                "name": "Xác suất thống kê"
+            },
+            "teacher": {
+                "id": "tc987fghj",
+                "userCode": "T002",
+                "name": "Hi Hi",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-07-05 14:00:00",
+                    "endAt": "2021-07-05 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97dklhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-07-07 14:00:00",
+                    "endAt": "2021-07-07 16:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "teach": [
+        {
+            "class": {
+                "id": "classtea123fdaess",
+                "classCode": "D001-06-246",
+                "name": "DRAW thứ 2 4 6",
+                "begin": "2021-05-03 08:00:00",
+                "end": "2021-05-26 10:00:00"
+            },
+            "course": {
+                "id": "drawcourse0001",
+                "courseCode": "DR001",
+                "name": "Vẽ cơ bản"
+            },
+            "student": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-05-03 08:00:00",
+                    "endAt": "2021-05-03 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97dklhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-05-05 08:00:00",
+                    "endAt": "2021-05-05 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9d7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 7",
+                    "startAt": "2021-05-12 08:00:00",
+                    "endAt": "2021-05-12 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "classtea187fdas",
+                "classCode": "D002-06-357",
+                "name": "DRAW thứ 3 5 7",
+                "begin": "2021-05-04 08:00:00",
+                "end": "2021-05-27 10:00:00"
+            },
+            "course": {
+                "id": "drawcourse0001",
+                "courseCode": "MAGT002",
+                "name": "Vẽ cơ bản"
+            },
+            "student": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhgs",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-05-04 08:00:00",
+                    "endAt": "2021-05-04 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9s7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 5",
+                    "startAt": "2021-05-06 08:00:00",
+                    "endAt": "2021-05-06 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhsg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 6",
+                    "startAt": "2021-05-22 08:00:00",
+                    "endAt": "2021-05-22 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhssg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 7",
+                    "startAt": "2021-05-29 08:00:00",
+                    "endAt": "2021-05-29 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "classtea123fdas",
+                "classCode": "DR003-06-246",
+                "name": "DAB thứ 2 4 6",
+                "begin": "2021-06-02 08:00:00",
+                "end": "2021-06-28 10:00:00"
+            },
+            "course": {
+                "id": "drawcourse0001",
+                "courseCode": "DAB001",
+                "name": "Vẽ hoạt hình cơ bản"
+            },
+            "student": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-06-02 08:00:00",
+                    "endAt": "2021-06-02 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97dklhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-06-04 08:00:00",
+                    "endAt": "2021-06-04 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9d7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 7",
+                    "startAt": "2021-06-18 08:00:00",
+                    "endAt": "2021-06-18 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klddhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 8",
+                    "startAt": "2021-06-21 08:00:00",
+                    "endAt": "2021-06-21 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "classtea187fdas",
+                "classCode": "DR003-06-357",
+                "name": "DAB thứ 3 5 7",
+                "begin": "2021-06-03 08:00:00",
+                "end": "2021-06-29 10:00:00"
+            },
+            "course": {
+                "id": "drawcourse0001",
+                "courseCode": "DAB001",
+                "name": "Vẽ hoạt hình cơ bản"
+            },
+            "student": {
+                "id": "tc987fghj",
+                "userCode": "T001",
+                "name": "Vip Pro",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhssg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-06-03 08:00:00",
+                    "endAt": "2021-06-03 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhgs",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-06-05 08:00:00",
+                    "endAt": "2021-06-05 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss9s7klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 5",
+                    "startAt": "2021-06-22 08:00:00",
+                    "endAt": "2021-06-22 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97klhsg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 6",
+                    "startAt": "2021-06-24 08:00:00",
+                    "endAt": "2021-06-24 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "class": {
+                "id": "classtea11423fdas",
+                "classCode": "VTV-06-246",
+                "name": "VTV thứ 2 4 6",
+                "begin": "2021-07-05 08:00:00",
+                "end": "2021-07-26 10:00:00"
+            },
+            "course": {
+                "id": "drawcourse0001",
+                "courseCode": "VTV001",
+                "name": "Vẽ Tĩnh vật"
+            },
+            "student": {
+                "id": "tc987fghj",
+                "userCode": "T002",
+                "name": "Hi Hi",
+                "avatar": ""
+            },
+            "sessions": [
+                {
+                    "id": "ss97klhg",
+                    "sessionCode": "SS001",
+                    "name": "Buổi 1",
+                    "startAt": "2021-07-05 08:00:00",
+                    "endAt": "2021-07-05 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                },
+                {
+                    "id": "ss97dklhg",
+                    "sessionCode": "SS002",
+                    "name": "Buổi 2",
+                    "startAt": "2021-07-07 08:00:00",
+                    "endAt": "2021-07-07 10:00:00",
+                    "duration": 2,
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
