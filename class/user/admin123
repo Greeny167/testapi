@@ -326,8 +326,8 @@
                     "id": "ss97klddhg",
                     "sessionCode": "SS002",
                     "name": "Buổi 8",
-                    "startAt": "2021-06-21 14:00:00",
-                    "endAt": "2021-06-21 16:00:00",
+                    "startAt": "2021-06-28 14:00:00",
+                    "endAt": "2021-06-28 16:00:00",
                     "duration": 2,
                     "description": ""
                 }
@@ -440,8 +440,8 @@
                     "id": "ss97klhsg",
                     "sessionCode": "SS002",
                     "name": "Buổi 6",
-                    "startAt": "2021-06-24 14:00:00",
-                    "endAt": "2021-06-24 16:00:00",
+                    "startAt": "2021-06-29 14:00:00",
+                    "endAt": "2021-06-29 16:00:00",
                     "duration": 2,
                     "description": ""
                 }
@@ -871,8 +871,8 @@
                     "id": "ss97klddhg",
                     "sessionCode": "SS002",
                     "name": "Buổi 8",
-                    "startAt": "2021-06-21 08:00:00",
-                    "endAt": "2021-06-21 10:00:00",
+                    "startAt": "2021-06-28 08:00:00",
+                    "endAt": "2021-06-28 10:00:00",
                     "duration": 2,
                     "description": ""
                 }
@@ -985,8 +985,8 @@
                     "id": "ss97klhsg",
                     "sessionCode": "SS002",
                     "name": "Buổi 6",
-                    "startAt": "2021-06-24 08:00:00",
-                    "endAt": "2021-06-24 10:00:00",
+                    "startAt": "2021-06-29 08:00:00",
+                    "endAt": "2021-06-29 10:00:00",
                     "duration": 2,
                     "description": ""
                 }
