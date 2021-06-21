@@ -1,0 +1,234 @@
+{
+    "subject": [
+        {
+            "id": "nkdraw1245",
+            "subjectCode": "DRAW",
+            "name": "Vẽ",
+            "category": "Năng khiếu",
+            "course": [
+                {
+                    "id": "drawcourse0002",
+                    "courseCode": "BADG001",
+                    "name": "Vẽ hoạt hình cơ bản",
+                    "duration": 24,
+                    "status": "Còn lớp",
+                    "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+                    "rate": "5",
+                    "image": "",
+                    "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
+                    "syllabus": [
+                        {
+                            "number": "1",
+                            "title": "Vẽ quả trứng",
+                            "description": ""
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "id": "classtea123fdas",
+                            "classCode": "DR003-06-246",
+                            "className": "DAB thứ 2 4 6",
+                            "begin": "2021-06-02 08:00:00",
+                            "end": "2021-06-28 10:00:00",
+                            "schedules": [
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ hai",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                },
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ tư",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                },
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ sáu",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "classtea187fdas",
+                            "classCode": "DR003-06-357",
+                            "className": "DAB thứ 3 5 7",
+                            "begin": "2021-06-03 08:00:00",
+                            "end": "2021-06-29 10:00:00",
+                            "schedules": [
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ ba",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                },
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ năm",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                },
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ bảy",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "drawcourse0003",
+                    "courseCode": "VTV001",
+                    "name": "Vẽ Tĩnh vật",
+                    "duration": 24,
+                    "status": "Còn lớp",
+                    "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+                    "rate": "5",
+                    "image": "",
+                    "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
+                    "syllabus": [
+                        {
+                            "number": "1",
+                            "title": "Vẽ quả",
+                            "description": ""
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "id": "classtea11423fdas",
+                            "classCode": "VTV-06-246",
+                            "className": "VTV thứ 2 4 6",
+                            "begin": "2021-07-05 08:00:00",
+                            "end": "2021-07-26 10:00:00",
+                            "schedules": [
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ hai",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                },
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ tư",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                },
+                                {
+                                    "id": "sd356kjhg",
+                                    "day": "thứ sáu",
+                                    "startAt": "08:00:00",
+                                    "endAt": "10:00:00",
+                                    "description": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "studyClasses": [
+        {
+            "id": "class123fdas",
+            "classCode": "CS001-06-246",
+            "className": "GTCT thứ 2 4 6",
+            "begin": "2021-06-02 14:00:00",
+            "end": "2021-06-28 16:00:00",
+            "schedules": [
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ hai",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                },
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ tư",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                },
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ sáu",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "class187fdas",
+            "classCode": "CS001-06-357",
+            "className": "GTCT thứ 3 5 7",
+            "begin": "2021-06-03 14:00:00",
+            "end": "2021-06-29 16:00:00",
+            "schedules": [
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ ba",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                },
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ năm",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                },
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ bảy",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "class11423fdas",
+            "classCode": "CS041-06-246",
+            "className": "XSTK thứ 2 4 6",
+            "begin": "2021-07-05 14:00:00",
+            "end": "2021-07-26 16:00:00",
+            "schedules": [
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ hai",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                },
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ tư",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                },
+                {
+                    "id": "sd356kjhg",
+                    "day": "thứ sáu",
+                    "startAt": "14:00:00",
+                    "endAt": "16:00:00",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -145,7 +145,7 @@
         },
         "course": {
           "id": "drawcourse0001",
-          "courseCode": "MAGT002",
+          "courseCode": "DR001",
           "name": "Vẽ cơ bản",
           "duration": 24,
           "status": "Còn lớp",
@@ -255,8 +255,8 @@
           "category": "Năng khiếu"
         },
         "course": {
-          "id": "drawcourse0001",
-          "courseCode": "DAB001",
+          "id": "drawcourse0002",
+          "courseCode": "BADG001",
           "name": "Vẽ hoạt hình cơ bản",
           "duration": 24,
           "status": "Còn lớp",
@@ -366,8 +366,8 @@
           "category": "Năng khiếu"
         },
         "course": {
-          "id": "drawcourse0001",
-          "courseCode": "DAB001",
+          "id": "drawcourse0002",
+          "courseCode": "BADG001",
           "name": "Vẽ hoạt hình cơ bản",
           "duration": 24,
           "status": "Còn lớp",
@@ -478,7 +478,7 @@
           "category": "Năng khiếu"
         },
         "course": {
-          "id": "drawcourse0001",
+          "id": "drawcourse0003",
           "courseCode": "VTV001",
           "name": "Vẽ Tĩnh vật",
           "duration": 24,

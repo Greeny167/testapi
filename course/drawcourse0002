@@ -1,0 +1,32 @@
+{
+    "subject": {
+        "id": "nkdraw1245",
+        "subjectCode": "DRAW",
+        "name": "Vẽ",
+        "category": "Năng khiếu"
+    },
+    "course": {
+        "id": "drawcourse0001",
+        "courseCode": "DAB001",
+        "name": "Vẽ hoạt hình cơ bản",
+        "duration": 24,
+        "status": "Còn lớp",
+        "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
+        "rate": "5",
+        "image": "",
+        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
+        "syllabus": [
+            {
+                "number": "1",
+                "title": "Vẽ quả trứng",
+                "description": ""
+            }
+        ]
+    },
+    "teacher": {
+        "id": "admin123",
+        "userCode": "AD001",
+        "name": "Admin Admin",
+        "avatar": "img/avatar/avatar1.png"
+    }
+}
