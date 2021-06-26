@@ -1,87 +1,89 @@
-{
-        "userId": "admin123",
-        "userCode": "AD001",
-        "userName": "Admin Admin",
-        "userAvatar": "img/avatar/avatar1.png",
-        "subject": [
+[
+    {
+        "id": "drawcourse0001",
+        "courseCode": "DR001",
+        "name": "Vẽ cơ bản",
+        "duration": 24,
+        "status": "Còn lớp",
+        "introVideo": "https://www.youtube.com/watch?v=zb6ug3Y18Jk&list=PLpC_4-hXHzu2nqfg83WQLqHPxivGQgv9b",
+        "rate": "5",
+        "image": "",
+        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
+        "syllabus": [
             {
-                "id": "nkdraw1245",
-                "subjectCode": "DRAW",
-                "name": "Vẽ",
-                "category": "Năng khiếu",
-                "course": [
-                    {
-                        "id": "drawcourse0001",
-                        "courseCode": "DR001",
-                        "name": "Vẽ cơ bản",
-                        "duration": 24,
-                        "status": "Còn lớp",
-                        "introVideo": "https://www.youtube.com/watch?v=zb6ug3Y18Jk&list=PLpC_4-hXHzu2nqfg83WQLqHPxivGQgv9b",
-                        "rate": "5",
-                        "image": "",
-                        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
-                        "syllabus": [
-                            {
-                                "number": "1",
-                                "title": "Vẽ người",
-                                "description": ""
-                            }
-                        ],
-						"totalClass":7,
-						"cancelClass":1,
-						"passClass":1,
-						"currentClass":3,
-						"futureClass":2
-						
-                    },
-                    {
-                        "id": "drawcourse0002",
-                        "courseCode": "BADG001",
-                        "name": "Vẽ hoạt hình cơ bản",
-                        "duration": 24,
-                        "status": "Còn lớp",
-                        "introVideo": "https://www.youtube.com/watch?v=snW0-VWLJQA&list=PLpC_4-hXHzu2nqfg83WQLqHPxivGQgv9b&index=2",
-                        "rate": "5",
-                        "image": "",
-                        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
-                        "syllabus": [
-                            {
-                                "number": "1",
-                                "title": "Vẽ quả trứng",
-                                "description": ""
-                            }
-                        ],
-						"totalClass":6,
-						"cancelClass":0,
-						"passClass":1,
-						"currentClass":2,
-						"futureClass":3
-                    },
-                    {
-                        "id": "drawcourse0003",
-                        "courseCode": "VTV001",
-                        "name": "Vẽ Tĩnh vật",
-                        "duration": 24,
-                        "status": "Còn lớp",
-                        "introVideo": "https://www.youtube.com/watch?v=snW0-VWLJQA&list=PLpC_4-hXHzu2nqfg83WQLqHPxivGQgv9b&index=2",
-                        "rate": "5",
-                        "image": "",
-                        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
-                        "syllabus": [
-                            {
-                                "number": "1",
-                                "title": "Vẽ quả",
-                                "description": ""
-                            }
-                        ],
-						"totalClass":7,
-						"cancelClass":0,
-						"passClass":2,
-						"currentClass":1,
-						"futureClass":4
-                    }
-                ]
+                "number": "1",
+                "title": "Vẽ người",
+                "description": ""
             }
-        ]
-    
-}
+        ],
+        "totalClass": 7,
+        "cancelClass": 1,
+        "passClass": 1,
+        "currentClass": 3,
+        "futureClass": 2,
+        "subject": {
+            "id": "nkdraw1245",
+            "subjectCode": "DRAW",
+            "name": "Vẽ",
+            "category": "Năng khiếu"
+        }
+    },
+    {
+        "id": "drawcourse0002",
+        "courseCode": "BADG001",
+        "name": "Vẽ hoạt hình cơ bản",
+        "duration": 24,
+        "status": "Còn lớp",
+        "introVideo": "https://www.youtube.com/watch?v=snW0-VWLJQA&list=PLpC_4-hXHzu2nqfg83WQLqHPxivGQgv9b&index=2",
+        "rate": "5",
+        "image": "",
+        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
+        "syllabus": [
+            {
+                "number": "1",
+                "title": "Vẽ quả trứng",
+                "description": ""
+            }
+        ],
+        "totalClass": 6,
+        "cancelClass": 0,
+        "passClass": 1,
+        "currentClass": 2,
+        "futureClass": 3,
+        "subject": {
+            "id": "nkdraw1245",
+            "subjectCode": "DRAW",
+            "name": "Vẽ",
+            "category": "Năng khiếu"
+        }
+    },
+    {
+        "id": "drawcourse0003",
+        "courseCode": "VTV001",
+        "name": "Vẽ Tĩnh vật",
+        "duration": 24,
+        "status": "Còn lớp",
+        "introVideo": "https://www.youtube.com/watch?v=snW0-VWLJQA&list=PLpC_4-hXHzu2nqfg83WQLqHPxivGQgv9b&index=2",
+        "rate": "5",
+        "image": "",
+        "description": "Học xong vẽ không đẹp sẽ không dạy nữa.",
+        "syllabus": [
+            {
+                "number": "1",
+                "title": "Vẽ quả",
+                "description": ""
+            }
+        ],
+        "totalClass": 7,
+        "cancelClass": 0,
+        "passClass": 2,
+        "currentClass": 1,
+        "futureClass": 4,
+        "subject": {
+            "id": "nkdraw1245",
+            "subjectCode": "DRAW",
+            "name": "Vẽ",
+            "category": "Năng khiếu"
+        }
+    }
+]
