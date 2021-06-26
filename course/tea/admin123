@@ -21,6 +21,7 @@
         "passClass": 1,
         "currentClass": 3,
         "futureClass": 2,
+        "futureClassNoStd": 0,
         "subject": {
             "id": "nkdraw1245",
             "subjectCode": "DRAW",
@@ -49,7 +50,8 @@
         "cancelClass": 0,
         "passClass": 1,
         "currentClass": 2,
-        "futureClass": 3,
+        "futureClass": 2,
+        "futureClassNoStd": 1,
         "subject": {
             "id": "nkdraw1245",
             "subjectCode": "DRAW",
@@ -78,7 +80,8 @@
         "cancelClass": 0,
         "passClass": 2,
         "currentClass": 1,
-        "futureClass": 4,
+        "futureClass": 0,
+        "futureClassNoStd": 4,
         "subject": {
             "id": "nkdraw1245",
             "subjectCode": "DRAW",
