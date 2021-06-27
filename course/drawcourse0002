@@ -21,6 +21,18 @@
     "currentClass": 2,
     "futureClass": 2,
     "futureClassNoStd": 1,
+    "subject": {
+        "id": "nkdraw1245",
+        "subjectCode": "DRAW",
+        "name": "Vẽ",
+        "category": "Năng khiếu"
+    },
+    "teacher": {
+        "id": "admin123",
+        "userCode": "AD001",
+        "name": "Admin Admin",
+        "avatar": "img/avatar/avatar1.png"
+    },
     "classes": [
         {
             "id": "classtea123fdas",
@@ -62,7 +74,9 @@
                 "feedbackCode": "FB001",
                 "name": "Đánh giá lớp DAB 246",
                 "rate": "",
-                "description": ""
+                "description": "",
+                "createdAt": "2021-06-21T18:32:43Z",
+                "updatedAt": "2021-06-21T18:32:43Z"
             },
             "sessions": [
                 {
@@ -143,7 +157,9 @@
                 "feedbackCode": "FB001",
                 "name": "Đánh giá lớp DAB 357",
                 "rate": "",
-                "description": ""
+                "description": "",
+                "createdAt": "2021-06-21T18:32:43Z",
+                "updatedAt": "2021-06-21T18:32:43Z"
             },
             "sessions": [
                 {
@@ -184,17 +200,5 @@
                 }
             ]
         }
-    ],
-    "subject": {
-        "id": "nkdraw1245",
-        "subjectCode": "DRAW",
-        "name": "Vẽ",
-        "category": "Năng khiếu"
-    },
-    "teacher": {
-        "id": "admin123",
-        "userCode": "AD001",
-        "name": "Admin Admin",
-        "avatar": "img/avatar/avatar1.png"
-    }
+    ]
 }
