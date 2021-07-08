@@ -1,36 +1,36 @@
 {
-      "id": "class11423fdas",
-      "classCode": "CS041-06-246",
-      "className": "XSTK thứ 2 4 6",
-      "begin": "2021-07-05 14:00:00",
-      "end": "2021-07-26 16:00:00",
+      "id": "class187fdas",
+      "classCode": "CS003-06-357",
+      "className": "ĐSTT thứ 3 5 7",
+      "begin": "2021-05-04 14:00:00",
+      "end": "2021-05-27 16:00:00",
       "status": "",
       "description": "Bao qua môn. Không qua không lấy tiền.",
       "syllabus": [
         {
           "number": "1",
-          "title": "Hồi quy tuyến tính",
+          "title": "Ma trận chuyển vị",
           "description": ""
         }
       ],
       "schedules": [
         {
           "id": "sd356kjhg",
-          "day": "thứ hai",
+          "day": "thứ ba",
           "startAt": "14:00:00",
           "endAt": "16:00:00",
           "description": ""
         },
         {
           "id": "sd356kjhg",
-          "day": "thứ tư",
+          "day": "thứ năm",
           "startAt": "14:00:00",
           "endAt": "16:00:00",
           "description": ""
         },
         {
           "id": "sd356kjhg",
-          "day": "thứ sáu",
+          "day": "thứ bảy",
           "startAt": "14:00:00",
           "endAt": "16:00:00",
           "description": ""
@@ -38,14 +38,14 @@
       ],
       "subject": {
         "id": "sj123lkjhf",
-        "subjectCode": "MA004",
+        "subjectCode": "MA001",
         "name": "Toán ĐH",
         "category": "Toán"
       },
       "course": {
         "id": "cs875hjkgh",
-        "courseCode": "MAGT003",
-        "name": "Xác suất thống kê",
+        "courseCode": "MAGT002",
+        "name": "Đại số tuyến tính",
         "duration": 24,
         "status": "Còn lớp",
         "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
@@ -55,40 +55,58 @@
         "syllabus": [
           {
             "number": "1",
-            "title": "Hồi quy tuyến tính",
+            "title": "Ma trận chuyển vị",
             "description": ""
           }
         ]
       },
       "teacher": {
         "id": "tc987fghj",
-        "userCode": "T002",
-        "name": "Hi Hi",
+        "userCode": "T001",
+        "name": "Vip Pro",
         "avatar": ""
       },
       "feedback": {
         "id": "fb123grfdg",
         "feedbackCode": "FB001",
-        "name": "Đánh giá lớp XSTK 246",
+        "name": "Đánh giá lớp ĐSTT 357",
         "rate": "",
         "description": ""
       },
       "sessions": [
         {
-          "id": "ss597klhg",
-          "sessionCode": "SS001",
-          "name": "Buổi 1",
-          "startAt": "2021-07-05 14:00:00",
-          "endAt": "2021-07-05 16:00:00",
+          "id": "ss297klhgs",
+          "sessionCode": "SS002",
+          "name": "Buổi 2",
+          "startAt": "2021-05-04 14:00:00",
+          "endAt": "2021-05-04 16:00:00",
           "duration": 2,
           "description": ""
         },
         {
-          "id": "ss97tdklhg",
+          "id": "ssl9s7klhg",
+          "sessionCode": "SS001",
+          "name": "Buổi 5",
+          "startAt": "2021-05-06 14:00:00",
+          "endAt": "2021-05-06 16:00:00",
+          "duration": 2,
+          "description": ""
+        },
+        {
+          "id": "ssz97klhsg",
           "sessionCode": "SS002",
-          "name": "Buổi 2",
-          "startAt": "2021-07-07 14:00:00",
-          "endAt": "2021-07-07 16:00:00",
+          "name": "Buổi 6",
+          "startAt": "2021-05-22 14:00:00",
+          "endAt": "2021-05-22 16:00:00",
+          "duration": 2,
+          "description": ""
+        },
+        {
+          "id": "ss9327klhssg",
+          "sessionCode": "SS001",
+          "name": "Buổi 7",
+          "startAt": "2021-05-29 14:00:00",
+          "endAt": "2021-05-29 16:00:00",
           "duration": 2,
           "description": ""
         }
