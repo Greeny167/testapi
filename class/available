@@ -1,15 +1,23 @@
 [{
     "id": "class12345fdas",
-    "classCode": "CS001-06-246",
-    "className": "GTCT thứ 2 4 6",
-    "begin": "2021-06-02 19:00:00",
-    "end": "2021-06-28 21:00:00",
+    "classCode": "PRE001-07-246",
+    "className": "PRE IELTS thứ 246",
+    "begin": "2021-07-14 19:00:00",
+    "end": "2021-08-27 21:00:00",
     "status": "",
-    "description": "Bao qua môn. Không qua không lấy tiền.",
+    "description": "Khóa học PRE IELTS cung cấp các kiến thức nền tảng cho kỳ thi IELTS. Được thiết kế dành riêng cho các bạn chưa tự tin sử dụng tiếng anh trong môi trường học thuật và giao tiếp hằng ngày, khóa học giúp nâng cao khả năng phản xạ, sự tự tin, vốn từ vựng và khả năng phát âm chuẩn xác.",
     "syllabus": [{
       "number": "1",
-      "title": "Tích phân kép",
-      "description": ""
+      "title": "Giới thiệu cấu trúc các phần thi IELTS",
+      "description": "Phần thi gồm 4 kỹ năng"
+    },{
+      "number": "2",
+      "title": "Speaking 1",
+      "description": "Topic: Family"
+    },{
+      "number": "3",
+      "title": "Listening 1",
+      "description": "Topic: Family"
     }],
     "schedules": [
       {
@@ -36,36 +44,44 @@
     ],
     "subject": {
       "id": "sj123lkjhf",
-      "subjectCode": "MA001",
-      "name": "Toán ĐH",
-      "category": "Toán"
+      "subjectCode": "EG001",
+      "name": "Tiếng Anh",
+      "category": "Ngoại ngữ"
     },
     "course": {
       "id": "cs875hjkgh",
-      "courseCode": "MAGT001",
-      "name": "Giải tích cấp tốc",
-      "duration": 24,
+      "courseCode": "PreIELTS001",
+      "name": "PRE IELTS",
+      "duration": 40,
       "status": "Còn lớp",
       "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
       "rate": "5",
       "image": "",
-      "description": "Bao qua môn. Không qua không lấy tiền.",
+      "description": "Khóa học PRE IELTS cung cấp các kiến thức nền tảng cho kỳ thi IELTS. Được thiết kế dành riêng cho các bạn chưa tự tin sử dụng tiếng anh trong môi trường học thuật và giao tiếp hằng ngày, khóa học giúp nâng cao khả năng phản xạ, sự tự tin, vốn từ vựng và khả năng phát âm chuẩn xác. ",
       "syllabus": [{
-        "number": "1",
-        "title": "Tích phân kép",
-        "description": ""
-      }]
+      "number": "1",
+      "title": "Giới thiệu cấu trúc các phần thi IELTS",
+      "description": "Phần thi gồm 4 kỹ năng"
+    },{
+      "number": "2",
+      "title": "Speaking 1",
+      "description": "Topic: Family"
+    },{
+      "number": "3",
+      "title": "Listening 1",
+      "description": "Topic: Family"
+    }]
     },
     "teacher": {
       "id": "tc987fghj",
       "userCode": "T001",
-      "name": "Vip Pro",
+      "name": "John Nguyen",
       "avatar": ""
     },
     "feedback": {
       "id": "fb123grfdg",
       "feedbackCode": "FB001",
-      "name": "Đánh giá lớp GTCT 246",
+      "name": "Đánh giá lớp PRE IELTS 246",
       "rate": "",
       "description": ""
     },
@@ -74,8 +90,8 @@
         "id": "ss97klhg",
         "sessionCode": "SS001",
         "name": "Buổi 1",
-        "startAt": "2021-06-02 19:00:00",
-        "endAt": "2021-06-02 21:00:00",
+        "startAt": "2021-07-15 19:00:00",
+        "endAt": "2021-07-15 21:00:00",
         "duration": 2,
         "description": ""
       },
@@ -110,110 +126,126 @@
   },
 
   {
-    "id": "classaa187fdas",
-    "classCode": "CS001-06-357",
-    "className": "GTCT thứ 3 5 7",
-    "begin": "2021-06-03 14:00:00",
-    "end": "2021-06-29 16:00:00",
+    "id": "class12345fdas",
+    "classCode": "PRE001-07-357",
+    "className": "PRE IELTS thứ 357",
+    "begin": "2021-07-15 19:00:00",
+    "end": "2021-08-28 21:00:00",
     "status": "",
-    "description": "Bao qua môn. Không qua không lấy tiền.",
+    "description": "Khóa học PRE IELTS cung cấp các kiến thức nền tảng cho kỳ thi IELTS. Được thiết kế dành riêng cho các bạn chưa tự tin sử dụng tiếng anh trong môi trường học thuật và giao tiếp hằng ngày, khóa học giúp nâng cao khả năng phản xạ, sự tự tin, vốn từ vựng và khả năng phát âm chuẩn xác.",
     "syllabus": [{
       "number": "1",
-      "title": "Tích phân kép",
-      "description": ""
+      "title": "Giới thiệu cấu trúc các phần thi IELTS",
+      "description": "Phần thi gồm 4 kỹ năng"
+    },{
+      "number": "2",
+      "title": "Speaking 1",
+      "description": "Topic: Family"
+    },{
+      "number": "3",
+      "title": "Listening 1",
+      "description": "Topic: Family"
     }],
     "schedules": [
       {
         "id": "sd356kjhg",
         "day": "thứ ba",
-        "startAt": "14:00:00",
-        "endAt": "16:00:00",
+        "startAt": "19:00:00",
+        "endAt": "21:00:00",
         "description": ""
       },
       {
         "id": "sd356kjhg",
         "day": "thứ năm",
-        "startAt": "14:00:00",
-        "endAt": "16:00:00",
+        "startAt": "19:00:00",
+        "endAt": "21:00:00",
         "description": ""
       },
       {
         "id": "sd356kjhg",
         "day": "thứ bảy",
-        "startAt": "14:00:00",
-        "endAt": "16:00:00",
+        "startAt": "19:00:00",
+        "endAt": "21:00:00",
         "description": ""
       }
     ],
     "subject": {
       "id": "sj123lkjhf",
-      "subjectCode": "MA001",
-      "name": "Toán ĐH",
-      "category": "Toán"
+      "subjectCode": "EG001",
+      "name": "Tiếng Anh",
+      "category": "Ngoại ngữ"
     },
     "course": {
       "id": "cs875hjkgh",
-      "courseCode": "MAGT001",
-      "name": "Giải tích cấp tốc",
-      "duration": 24,
+      "courseCode": "PreIELTS001",
+      "name": "PRE IELTS",
+      "duration": 40,
       "status": "Còn lớp",
       "introVideo": "https://elpais.com/ac/neque/duis/bibendum/morbi/non/quam.html?lectus=aenean&vestibulum=sit&quam=amet&sapien=justo&varius=morbi&ut=ut&blandit=odio&non=cras&interdum=mi&in=pede&ante=malesuada&vestibulum=in&ante=imperdiet&ipsum=et&primis=commodo&in=vulputate&faucibus=justo&orci=in&luctus=blandit&et=ultrices&ultrices=enim&posuere=lorem&cubilia=ipsum&curae=dolor&duis=sit&faucibus=amet&accumsan=consectetuer&odio=adipiscing&curabitur=elit&convallis=proin&duis=interdum&consequat=mauris&dui=non&nec=ligula&nisi=pellentesque&volutpat=ultrices&eleifend=phasellus&donec=id&ut=sapien&dolor=in&morbi=sapien&vel=iaculis&lectus=congue&in=vivamus&quam=metus&fringilla=arcu&rhoncus=adipiscing&mauris=molestie&enim=hendrerit&leo=at&rhoncus=vulputate&sed=vitae&vestibulum=nisl&sit=aenean&amet=lectus&cursus=pellentesque&id=eget&turpis=nunc&integer=donec&aliquet=quis&massa=orci&id=eget&lobortis=orci&convallis=vehicula&tortor=condimentum&risus=curabitur&dapibus=in&augue=libero&vel=ut",
-      "rate": "3.5",
+      "rate": "5",
       "image": "",
-      "description": "Bao qua môn. Không qua không lấy tiền.",
+      "description": "Khóa học PRE IELTS cung cấp các kiến thức nền tảng cho kỳ thi IELTS. Được thiết kế dành riêng cho các bạn chưa tự tin sử dụng tiếng anh trong môi trường học thuật và giao tiếp hằng ngày, khóa học giúp nâng cao khả năng phản xạ, sự tự tin, vốn từ vựng và khả năng phát âm chuẩn xác. ",
       "syllabus": [{
-        "number": "1",
-        "title": "Tích phân kép",
-        "description": ""
-      }]
+      "number": "1",
+      "title": "Giới thiệu cấu trúc các phần thi IELTS",
+      "description": "Phần thi gồm 4 kỹ năng"
+    },{
+      "number": "2",
+      "title": "Speaking 1",
+      "description": "Topic: Family"
+    },{
+      "number": "3",
+      "title": "Listening 1",
+      "description": "Topic: Family"
+    }]
     },
     "teacher": {
       "id": "tc987fghj",
       "userCode": "T001",
-      "name": "Haizz",
+      "name": "John Nguyen",
       "avatar": ""
     },
     "feedback": {
       "id": "fb123grfdg",
       "feedbackCode": "FB001",
-      "name": "Đánh giá lớp GTCT 357",
+      "name": "Đánh giá lớp PRE IELTS 246",
       "rate": "",
       "description": ""
     },
     "sessions": [
       {
-        "id": "ss97klhssg",
+        "id": "ss97klhg",
         "sessionCode": "SS001",
         "name": "Buổi 1",
-        "startAt": "2021-06-03 14:00:00",
-        "endAt": "2021-06-03 16:00:00",
+        "startAt": "2021-07-15 19:00:00",
+        "endAt": "2021-07-15 21:00:00",
         "duration": 2,
         "description": ""
       },
       {
-        "id": "ss97klhgs",
+        "id": "ss97dklhg",
         "sessionCode": "SS002",
         "name": "Buổi 2",
-        "startAt": "2021-06-05 14:00:00",
-        "endAt": "2021-06-05 16:00:00",
+        "startAt": "2021-06-04 19:00:00",
+        "endAt": "2021-06-04 21:00:00",
         "duration": 2,
         "description": ""
       },
       {
-        "id": "ss9s7klhg",
+        "id": "ss9d7klhg",
         "sessionCode": "SS001",
-        "name": "Buổi 5",
-        "startAt": "2021-06-15 14:00:00",
-        "endAt": "2021-06-15 16:00:00",
+        "name": "Buổi 7",
+        "startAt": "2021-06-18 19:00:00",
+        "endAt": "2021-06-18 21:00:00",
         "duration": 2,
         "description": ""
       },
       {
-        "id": "ss97klhsg",
+        "id": "ss97klddhg",
         "sessionCode": "SS002",
-        "name": "Buổi 6",
-        "startAt": "2021-06-17 14:00:00",
-        "endAt": "2021-06-17 16:00:00",
+        "name": "Buổi 8",
+        "startAt": "2021-06-21 19:00:00",
+        "endAt": "2021-06-21 21:00:00",
         "duration": 2,
         "description": ""
       }
